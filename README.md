@@ -4,7 +4,7 @@ This project involves performing sentiment analysis on Twitter data using a Rand
 
 ## Data Preprocessing
 
-The project begins with data preprocessing, where Twitter training and validation data are loaded. Text preprocessing is performed by converting text to lowercase, removing special characters, URLs, and mentions. The NaN values are handled, ensuring clean and consistent text data.
+The project begins with data preprocessing, where Twitter training and validation data are loaded. Text preprocessing is performed by converting text to lowercase, and removing special characters, URLs, and mentions. The NaN values are handled, ensuring clean and consistent text data.
 
 ## Model Development
 
@@ -28,7 +28,7 @@ Before running the provided code in the notebook, ensure you have the necessary 
 You can install these dependencies using the following command:
 
 ```bash
-pip install numpy pandas scikit-learn nltk` 
+pip install numpy pandas scikit-learn nltk 
 ```
 ## Usage
 
@@ -37,7 +37,7 @@ Follow these steps to use the code in the notebook:
 1.  Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git` 
+git clone https://github.com/ananyamanjunath/Twitter-Sentiment-Analysis.git 
 ```
 2.  Download the dataset (`twitter_training.csv` and `twitter_validation.csv`) and place them in the appropriate directory of the project.
     
