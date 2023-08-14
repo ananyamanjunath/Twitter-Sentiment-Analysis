@@ -1,4 +1,4 @@
-# Time Series Analysis with LSTM
+# Twitter Sentiment Analysis with LSTM
 This project involves performing sentiment analysis on Twitter data using a RandomForest Classifier. The goal is to classify tweets into different sentiment categories. Here's an overview of the project:
 
 
